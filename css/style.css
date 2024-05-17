@@ -7,6 +7,11 @@
     font-family: "Sedan SC", serif;
 }
 
+h1 {
+    font-size: large;
+    color: black;
+}
+
 body {
     background-color: rgb(95, 52, 136);
 }
